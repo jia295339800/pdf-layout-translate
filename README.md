@@ -1,5 +1,11 @@
 # pdf-layout-translate 📄✨
 
+<div align="center">
+
+**[简体中文](README.md) | [English](README.en.md)**
+
+</div>
+
 **把任何排版精美的 PDF / Word 原样翻成中文 —— 版式不动、图表不跑、文字可选中。**
 
 给 AI Agent 用的翻译工艺技能：不重排版，只换字。
